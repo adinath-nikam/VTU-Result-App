@@ -1,0 +1,2 @@
+rootProject.name='VTU Result'
+include ':app'
